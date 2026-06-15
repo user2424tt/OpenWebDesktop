@@ -1,0 +1,15 @@
+bcrypt==5.0.0
+bottle==0.13.4
+cffi==2.0.0
+gevent==25.9.1
+gevent-websocket==0.10.1
+greenlet==3.3.2
+grpcio==1.78.0
+grpcio-tools==1.78.0
+protobuf==6.33.5
+pycparser==3.0
+PyJWT==2.12.1
+setuptools==82.0.1
+typing_extensions==4.15.0
+zope.event==6.1
+zope.interface==8.2
