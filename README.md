@@ -6,7 +6,7 @@ The program allows you to browse the user's disks and file system, as well as do
 
 	- Have the latest version of Python installed with the Pip package manager;
 	- Install all project dependencies with the command:
-		- `pip install -r .\requirements.txt"`
+		- `pip install -r .\requirements.txt`
 		- In this case, you need to be in the "server" folder.
 	- Start the server with the command:
 		- `python main.py`
